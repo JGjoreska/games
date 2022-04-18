@@ -1,0 +1,13 @@
+.xoContainer {
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  padding: 18px;
+}
+
+.xoWrapper {
+  margin: auto;
+  width: 30%;
+  height: fit-content;
+  margin-top: 10%;
+  text-align: center;
+}
